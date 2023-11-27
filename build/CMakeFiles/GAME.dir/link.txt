@@ -1,0 +1,1 @@
+/usr/bin/c++  -pg -O3 -DNDEBUG CMakeFiles/GAME.dir/src/main.cpp.o CMakeFiles/GAME.dir/src/camera.cpp.o CMakeFiles/GAME.dir/src/cube.cpp.o CMakeFiles/GAME.dir/src/sphere.cpp.o -o GAME  -L/usr/lib/x86_64-linux-gnu  -lSDL2 /usr/lib/x86_64-linux-gnu/libSDL2_image-2.0.so 

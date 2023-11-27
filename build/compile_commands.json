@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/build",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/include -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src -I/usr/lib/x86_64-linux-gnu/libSDL2_image-2.0.so -I/usr/include/glm/glm.hpp  -pg -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/GAME.dir/src/main.cpp.o -c /mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/main.cpp",
+  "file": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/main.cpp"
+},
+{
+  "directory": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/build",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/include -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src -I/usr/lib/x86_64-linux-gnu/libSDL2_image-2.0.so -I/usr/include/glm/glm.hpp  -pg -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/GAME.dir/src/camera.cpp.o -c /mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/camera.cpp",
+  "file": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/camera.cpp"
+},
+{
+  "directory": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/build",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/include -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src -I/usr/lib/x86_64-linux-gnu/libSDL2_image-2.0.so -I/usr/include/glm/glm.hpp  -pg -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/GAME.dir/src/cube.cpp.o -c /mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/cube.cpp",
+  "file": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/cube.cpp"
+},
+{
+  "directory": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/build",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/include -I/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src -I/usr/lib/x86_64-linux-gnu/libSDL2_image-2.0.so -I/usr/include/glm/glm.hpp  -pg -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/GAME.dir/src/sphere.cpp.o -c /mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/sphere.cpp",
+  "file": "/mnt/d/JDgomez/Git/graphics/proj3-CC2018/src/sphere.cpp"
+}
+]
